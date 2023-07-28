@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.game {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.choice {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 20px;
+    font-weight: bold;
+}
